@@ -36,7 +36,7 @@ function AllMeetupsPage() {
   return (
     <div>
       <h1>All Meetups</h1>
-      <MeetupList meetup={loadedMeetups} />
+      <MeetupList meetups={loadedMeetups} />
     </div>
   );
 }
