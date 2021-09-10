@@ -26,5 +26,3 @@ function App() {
 }
 
 export default App;
-//https://codewithstupid.com/react-router-with-switch-and-link
-//image upload-->https://academind.com/tutorials/reactjs-image-upload/
