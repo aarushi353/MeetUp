@@ -4,10 +4,6 @@ import Favourites from "./pages/Favourites";
 import NewMeetup from "./pages/NewMeetup";
 import Layout from "./components/layout/Layout";
 function App() {
-  //path
-  //localhost:3000
-  //my-page.com/
-
   return (
     <Layout>
       <Switch>
